@@ -1,0 +1,89 @@
+
+.footer{
+
+    /* padding: 20px; */
+    height: 80vh;
+    color: white;
+background: linear-gradient(90deg, rgb(7, 4, 67) 0%, rgb(19, 19, 136) 21%, rgb(3, 52, 62) 100%); 
+;
+    box-sizing: border-box;
+}
+.div1{
+    display: inline-block;
+   
+}
+h1>i{
+    background-color:#0e893b ;
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 2px 4px 4px rgb(11, 111, 23);
+}
+.heading_logofooter{
+    font-size: 1.3rem;
+}
+.footerspan{
+    color: #16A34A;
+}
+.para_footer{
+    font-size: 0.9rem;
+    color: #79757c;
+}
+.logo_differ{
+    border-radius: 10px;
+    border:1px solid #96909a;
+    padding: 10px;
+    margin: 3px;
+}
+.logo_differ:hover{
+background-color: #0aac45;  
+}
+.button_foot{
+    display: inline-block;
+    border-radius: 20px;
+width: 140px;
+/* margin-top: 10px; */
+border: 1px solid gray;
+
+}
+.button_foot p{
+display: inline-block;
+}
+/* ____________________________div2 */
+.div2{
+    display: inline-block;
+    margin-right:100px;
+   
+}
+.div2 h2{
+    margin: 0px 0px;
+    text-transform: uppercase;
+}
+.rangefoot{
+    width: 100px;
+    height: 7px;
+     background:#eeeeee ;
+      border-radius:10px;
+      margin-bottom: 10px;
+      margin-top: 2px;
+}
+.progreesfoot{
+    width: 40%;
+ height:100%;
+  background:linear-gradient(to right, orange, seagreen); 
+  border-radius:10px;
+}
+.parafoot{
+    color: #96909a;
+}
+/* _______________________div3 */
+.div3{
+   
+    display: inline-block;
+    /* margin: 90px; */
+}
+.div3 h2{
+    margin: 0px 0px;
+    text-transform: uppercase;
+}
